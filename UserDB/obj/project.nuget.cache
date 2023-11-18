@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PyWRH+oHGA8gZJbFuBO/cIvyaxDoqfP18DxHRTsPnIWHAVV/SabMUP4Gm5+VXriR79O3DeSmlNpIUpPJ85WVQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Javie\\Downloads\\Proyecto_MVC_INTEGRACIÓN_FRONT_BACK\\Proyecto_MVC\\UserDB\\UserDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

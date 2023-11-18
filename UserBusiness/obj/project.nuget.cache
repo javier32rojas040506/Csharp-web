@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+4cuK8QRx465AqHj0aPImXrlyZC0YU94DqF4PmbtaW9HBPiiIlm4U1bvS6zCe8La/mz0EWgr4i2fhaO2ygAAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Javie\\Downloads\\Proyecto_MVC_INTEGRACIÓN_FRONT_BACK\\Proyecto_MVC\\UserBusiness\\UserBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

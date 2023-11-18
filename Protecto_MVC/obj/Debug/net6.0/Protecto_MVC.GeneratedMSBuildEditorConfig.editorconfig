@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Protecto_MVC
+build_property.RootNamespace = Protecto_MVC
+build_property.ProjectDir = C:\Users\Javie\Downloads\Proyecto_MVC_INTEGRACIÓN_FRONT_BACK\Proyecto_MVC\Protecto_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Javie\Downloads\Proyecto_MVC_INTEGRACIÓN_FRONT_BACK\Proyecto_MVC\Protecto_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Accesorios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc29yaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Acerca_Nosotros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2VyY2FfTm9zb3Ryb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Futsal_Hombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGdXRzYWxfSG9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Futsal_Mujer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGdXRzYWxfTXVqZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Futsal_Niño.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGdXRzYWxfTmnDsW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Guayos_Hombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWF5b3NfSG9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Guayos_Mujer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWF5b3NfTXVqZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Guayos_Niño.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWF5b3NfTmnDsW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Guia_Talla.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWlhX1RhbGxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Seguir_Envio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWd1aXJfRW52aW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Sintetica_Hombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW50ZXRpY2FfSG9tYnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Sintetica_Mujer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW50ZXRpY2FfTXVqZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/Sintetica_Niño.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaW50ZXRpY2FfTmnDsW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Home/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Javie/Downloads/Proyecto_MVC_INTEGRACIÓN_FRONT_BACK/Proyecto_MVC/Protecto_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gar7h6bx68

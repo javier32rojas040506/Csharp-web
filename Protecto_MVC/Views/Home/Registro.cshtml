@@ -1,0 +1,45 @@
+﻿@model Protecto_MVC.Models.User
+
+@{
+    ViewData["Title"] = "Users";
+}
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<head>
+<link rel="stylesheet" href="~/css/site_login.css" asp-append-version="true" />
+</head>
+
+<div class="formulario">
+    <h1>Registrarse</h1>
+    <form method="post" asp-action="CreateUser">
+        <div class="username">
+            @Html.TextBoxFor(model => model.FSName, new { style = "font-family: 'Noto Serif';", placeholder = "Nombres", required = "required" })
+        </div>
+        <div class="username">
+            @Html.TextBoxFor(model => model.LastName, new { style = "font-family: 'Noto Serif';", placeholder = "Apellidos", required = "required" })
+        </div>
+        <div class="username">
+            @Html.TextBoxFor(model => model.Email, new { style = "font-family: 'Noto Serif';", type = "email", placeholder = "Email", required = "required" })
+        </div>
+        <div class="contrasena">
+            @Html.TextBoxFor(model => model.Password, new { style = "font-family: 'Noto Serif';", type = "password", placeholder = "Contraseña", required = "required" })
+        </div>
+        <div class="username">
+            @Html.TextBoxFor(model => model.UserName, new { style = "font-family: 'Noto Serif';", type = "text", placeholder = "Nombre usuario", required = "required" })
+        </div>
+        <div class="username">
+            <input style="font-family: 'Noto Serif';" type="date" required placeholder="Fecha de Nacimiento">
+        </div>
+   
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+            <input type="submit" value="___Registrarse___">
+        </a>
+        <div class="registrarse">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Login">Login</a>
+        </div>
+    </form>
+</div>

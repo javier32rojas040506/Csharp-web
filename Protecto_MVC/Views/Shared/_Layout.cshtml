@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Protecto_MVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Protecto_MVC.styles.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css2?family=Labrada:ital,wght@1,900&family=Noto+Serif:ital@1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="~/img/icono favicon.png">
+</head>
+<body>
+    <header class="header">
+        <div class="logo"><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/img/icono favicon.png" width="80" height="60" alt=""></a></div>
+            <h1 style="color: white; font-size: 20px;">GoalScore</h1>
+            <input type="checkbox" id="toggle">
+        <label for="toggle"><img class="menu" src="~/img/menu.png" alt="menu"></label>
+            <nav class="navigation">
+              <ul>
+                <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><h3>Inicio</h3></a></li>
+                <li><a href="#"><h3>Hombre</h3></a>
+                <ul>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Guayos_Hombre"><h3>Guayos</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Futsal_Hombre"><h3>Zapatillas Futsal</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Sintetica_Hombre"><h3>Zapatillas Sintetica</h3></a></li>
+                </ul>
+                </li>
+                <li><a href="#"><h3>Mujer</h3></a>
+                <ul>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Guayos_Mujer"><h3>Guayos</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Futsal_Mujer"><h3>Zapatillas Futsal</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Sintetica_Mujer"><h3>Zapatillas Sintetica</h3></a></li>
+                </ul>
+                </li>
+                <li><a href="#"><h3>Niño</h3></a>
+                    <ul>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Guayos_Niño"><h3>Guayos</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Futsal_Niño"><h3>Zapatillas Futsal</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Sintetica_Niño"><h3>Zapatillas Sintetica</h3></a></li>
+                    </ul>
+                    </li>
+                <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Accesorios"><h3>Accesorios</h3></a></li>
+                <li><a href="#"><h3>Ayuda</h3></a>
+                <ul>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Guia_Talla"><h3>Guia de Talla</h3></a></li>
+                        <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Seguir_Envio"><h3>Seguir Envio</h3></a></li>
+                </ul>
+              </li>
+                <li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Acerca_Nosotros"><h3>Nosotros</h3></a></li>
+
+
+                <li>
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="User"><h3>User</h3></a>
+                    </li>
+              </ul>
+            </nav>
+           <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Login"><img src="~/img/login.png" alt="" style="width: 35px; height: 35px;"></a>
+
+
+          </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="social-icons">
+            <a href="https://www.facebook.com/" target="_blank"><img src="~/img/facebook.png" alt="Facebook"></a>
+            <a href="https://twitter.com/" target="_blank"><img src="~/img/twitter.png" alt="Twitter"></a>
+            <a href="https://www.instagram.com/" target="_blank"><img src="~/img/instagram.png" alt="Instagram"></a>
+            <a href="https://co.linkedin.com/" target="_blank"><img src="~/img/LinkedIn.png" alt="LinkedIn"></a>
+        </div>
+        <h1 style="font-size: 15px; color: white; padding: 4px 0;">© 2023 Síguenos</h1>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

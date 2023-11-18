@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T2BjvoHoeFrWLEDRtaqtwQtJJsMqW3mM3lAMaEZEWMzO/GObVs43i1hwsaf1er9L44rwRLAeIQdh+eG4dOI4kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Javie\\Downloads\\Proyecto_MVC_INTEGRACIÓN_FRONT_BACK\\Proyecto_MVC\\UserDomain\\UserDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Javie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Javie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Javie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
